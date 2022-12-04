@@ -26,7 +26,7 @@ Use and reuse your own code over and over again as much as you can. It helps con
   
 ## Some Infos About Sourcecode-Structure  
 Some of my repos are standalone but most of the repos heavily rely on other repos.
-If you try to compile my software just download the repo you like, maybe there are some classes in other repos, everything is there.
-Don't hesitate, just have a look into the VB-project-file and download the missing repos side by side.
+If you try to compile my software just download the repo you like, maybe there are some classes in other repos.
+Don't hesitate, everything is there, just have a look into the VB-project-file and download the missing repos side by side.
 If you have any questions concerning my codes, feel free to open an issue, I understand "issues" also as a kind of "communication-tool" on GitHub.
   
