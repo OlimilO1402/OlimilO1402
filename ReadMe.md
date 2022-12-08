@@ -22,7 +22,7 @@ In 2009 I found Jabaco very useful a Basic to Java compiler. Nowadays it's not u
 ## Some Thoughts About Programming  
 Let me tell you one word, every engineering-company should have, and needs at least one or more software developers.
 Time is money and in the last years I stuck with Visual Basic VBA and Excel, as it is truly a Rapic Application Development Tool 
-(RAD) you just have to know how to use it. Remember Frank Sinatra: If you can make it there you can make it anywhere ...  
+(RAD) you just have to know how to use it. Remember Frank Sinatra: "If you can make it there you can make it anywhere, it's up to you ..."  
 Use and reuse your own code over and over again as much as you can. It helps constantly testing and improving your own code-basis.
   
 ## Some Infos About Sourcecode-Structure  
