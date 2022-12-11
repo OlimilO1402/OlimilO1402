@@ -18,7 +18,7 @@ At the same time I started programming my graphical calculator HP48G in Reverse 
 From the year 2000 on, as already mentioned, I got a job as a professional software developer in Visual Basic 6.
 I am constantly looking over the fences (beyond my own nose 8-), and so I learned C, C++, C# and VB.NET In my spare time.
 In 2006 I started sharing my knowledge and to benefit from others in forums about programming, mainly at ActiveVB.de.
-In 2009 I found Jabaco a Basic to Java compiler, it was very useful to become acquaintanted with the Java framework.
+In 2009 I found Jabaco a Basic to Java compiler, it was very useful to become acquainted with the Java framework.
   
 ## Some Thoughts About Programming  
 Let me tell you one word, every engineering-company should have, and needs at least one software developer. 
