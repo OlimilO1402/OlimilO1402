@@ -12,7 +12,7 @@ So do I, and with my GitHub-repos I try to give something back to the community,
 Software is not only a tool but also knowledge, if you are able to read it.
   
 ## Some Infos About Programming Skills  
-I started learning programming in university in 1993 on a comtech AMD 386-DX-40 with Windows 3.1 and Fortran 77. 
+I started learning programming in Fortran 77 in university in 1992 on a comtech AMD 386-DX-40 with Windows 3.0. 
 In 1995 I switched to Borland Delphi (=Object Pascal) 3 then 5 later 7 and also Freepascal with Lazarus.
 At the same time I started programming my graphical calculator HP48G in Reverse Polish Lisp (UPN).
 From the year 2000 on, as already mentioned, I got a job as a professional software developer in Visual Basic 6.
