@@ -2,7 +2,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OlimilO1402&label=Profile%20views&color=0e75b6&style=flat" alt="OlimilO1402" /> </p>
   
-[![GitHub followers](https://img.shields.io/github/followers/OlimilO1402?style=social)]
+![GitHub followers](https://img.shields.io/github/followers/OlimilO1402?style=social)
   
 ## Some Infos About Me  
 My name is Oliver, I am working as a civil engineer in inspecting structural analysis, located in the southern of bavaria.
