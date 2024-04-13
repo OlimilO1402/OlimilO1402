@@ -32,3 +32,8 @@ If you try to compile my software just download the repo you like, maybe there a
 Don't hesitate, everything is there, just have a look into the VB-project-file and download the missing repos side by side. 
 If you have any questions concerning my codes, feel free to open an issue, I understand "issues" also as a kind of "communication-tool" on GitHub. 
   
+If you download one of my projects, and you found something useful, please consider starring it, to show me you care. 
+  
+## GitHub, Following, Starring
+I can not stop you from following me, but from  april 2024 on, I will follow you back only, if you are starring one of my projects.  
+If you stop following me, I will stop following you.
