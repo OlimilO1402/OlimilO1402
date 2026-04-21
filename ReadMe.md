@@ -24,7 +24,7 @@ In 2009 I found Jabaco a Basic to Java compiler, it was very useful to become ac
 Let me tell you one word, every engineering-company should have, and needs at least one software developer. 
 Time is money and in the last years I stuck with Visual Basic VBA and Excel, as it is truly a Rapid Application Development Tool 
 (RAD) you just have to know how to use it. Remember Frank Sinatra: "If you can make it there you can make it anywhere, it's up to you ..."  
-Use and reuse your own code over and over again as much as you can. It helps constantly testing and improving your own code-basis.
+Use and reuse your own code over and over again as much as you can. It helps constantly testing and improving your own code-base.
   
 ## Some Infos About Sourcecode-Structure  
 Some of my repos are standalone but most of the repos heavily rely on other repos. 
@@ -32,7 +32,26 @@ If you try to compile my software just download the repo you like, maybe there a
 Don't hesitate, everything is there, just have a look into the VB-project-file and download the missing repos side by side. 
 If you have any questions concerning my codes, feel free to open an issue, I understand "issues" also as a kind of "communication-tool" on GitHub. 
   
-If you download one of my projects, and you found something useful, please consider starring it, to show me you care. 
+If you download one of my repos, and you found something useful, please consider starring it, to show me you care.  
+  
+## Sourcodes and coding style  
+I respect that everyone has their own way of expressing logic in code. Every software developer has complete freedom to write code in 
+their own style and according to their own guidelines and rules. I have written several tutorials in which I explain my programming style. 
+Furthermore, I do not view programming style as something rigid, but rather as something flexible, fluid, and adaptable that evolves 
+over the course of a developer’s programming experience. I don't want anyone to feel pressured by my tutorials to follow my programming style.
+In this regard you can find some tutorials and codes in the following repos:  
+* [OOP_Cloning](https://github.com/OlimilO1402/OOP_Cloning)  
+* [Err_CorrectErrorHandling](https://github.com/OlimilO1402/Err_CorrectErrorHandling)  
+* [Ptr_Pointers](https://github.com/OlimilO1402/Ptr_Pointers)  
+* [XL_VBanywhere](https://github.com/OlimilO1402/XL_VBanywhere)  
+* [Sys_Version](https://github.com/OlimilO1402/Sys_Version)  
+* [Range_EasyChecks](https://github.com/OlimilO1402/Range_EasyChecks)
+* [Sys_Timers](https://github.com/OlimilO1402/Sys_Timers)  
+* [Langg_AvoidElse](https://github.com/OlimilO1402/Langg_AvoidElse)  
+* [Langg_Nullable](https://github.com/OlimilO1402/Langg_Nullable)  
+* [Ctrl_DBcrud](https://github.com/OlimilO1402/Ctrl_DBcrud)  
+  
+Every company that tries to force their employed developers into some sort of coding style is WRONG in the first place.  
   
 ## GitHub, Following, Starring
 I can not stop you from following me, but from  april 2024 on, I will follow you back only, if you are starring one of my repos.  
