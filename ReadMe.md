@@ -36,5 +36,5 @@ If you download one of my projects, and you found something useful, please consi
   
 ## GitHub, Following, Starring
 I can not stop you from following me, but from  april 2024 on, I will follow you back only, if you are starring one of my projects.  
-If you stop following me, I will stop following you.
+If you stop following me, I will stop following you.  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlimilO1402)](https://github.com/anuraghazra/github-readme-stats)
