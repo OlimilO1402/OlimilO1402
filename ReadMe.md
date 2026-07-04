@@ -57,4 +57,6 @@ Every company that tries to force their employed developers into some sort of co
 I can not stop you from following me, but from  april 2024 on, I will follow you back only, if you are starring one of my repos.  
 If you stop following me, I will stop following you.  
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlimilO1402)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OlimilO1402)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=OlimilO1402&langs_count=4)
